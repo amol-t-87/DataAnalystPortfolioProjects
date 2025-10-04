@@ -1,6 +1,3 @@
-## 🧪 Projects
-
-
 ## 🧠 Workforce Insights using Python
 
 Transformed messy and unstructured employee data into a structured format for workforce planning. The goal was to understand how employees were distributed across projects and roles and improve resource allocation through data-driven insights.
